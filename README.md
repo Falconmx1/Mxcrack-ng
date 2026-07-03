@@ -43,3 +43,55 @@ pip install -r requirements.txt
 
 # Ejecutar
 sudo python3 mxcrack.py
+
+⚙️ Configuración
+La herramienta detecta automáticamente tu interfaz de red. Puedes cambiarla en el menú de Opciones.
+
+⚠️ Aviso Legal
+Esta herramienta es solo para fines educativos y de auditoría autorizada.
+
+❌ No uses en redes sin permiso
+
+❌ No uses para actividades ilegales
+
+✅ Úsala solo en tus propias redes o con autorización
+
+📚 Funcionalidades Detalladas
+1. Capturar paquetes
+Captura tráfico de red en tu interfaz. Muestra origen, destino, protocolo y tamaño.
+
+2. Probar redes
+Escanea redes WiFi cercanas y analiza su nivel de seguridad (WEP, WPA2, WPA3, Open).
+
+3. Ataques
+Simula ataques de desautenticación para pruebas de penetración.
+
+4. Herramientas
+Escáner de puertos
+
+Análisis de tráfico
+
+Generador de reportes
+
+Ping a IP/Dominio
+
+5. Opciones
+Ver/Cambiar interfaz de red
+
+Configurar tiempo de espera
+
+Información del sistema
+
+🐛 Reportar problemas
+Si encuentras algún error, abre un issue en GitHub.
+
+🤝 Contribuir
+¡Las contribuciones son bienvenidas! Haz un fork y envía un pull request.
+
+📄 Licencia
+MIT License - ver archivo LICENSE
+
+👨‍💻 Autor
+Falconmx1
+
+https://img.shields.io/badge/GitHub-Falconmx1-181717?style=flat&logo=github
